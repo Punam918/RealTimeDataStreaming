@@ -10,7 +10,7 @@ Subsequently, **Apache Spark** is utilized to conduct data processing tasks, fol
 The entire pipeline is encapsulated within **Docker** containers, affording a streamlined and portable deployment mechanism. 
 
 ## System Architecture
-![System Architecture](https://github.com/NitinDatta8/realtime-data-streaming/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://raw.githubusercontent.com/Punam918/RealTimeDataStreaming/refs/heads/master/Data%20engineering%20architecture.png)
 
 ## Technologies
 - **Data Source**:  `randomuser.me` API is used to generate random user data for the pipeline.
