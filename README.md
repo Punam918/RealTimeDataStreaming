@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# Realtime Data Streaming Project
 
 ## Introduction 
 This project employs a multifaceted technological stack to establish an end-to-end data processing pipeline. The workflow commences by fetching data from the `randomuser.me` API to generate synthetic user data. This raw data is subsequently channeled through **Apache Airflow** for data orchestration and storage in a **PostgreSQL** database. 
