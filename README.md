@@ -21,7 +21,7 @@ The entire pipeline is encapsulated within **Docker** containers, affording a st
 - **Cassandra**: Database to store the processed data.
 - **Docker**: Containerize the entire pipeline.
 
-## Things to learn 
+## This project includes
 - Establishing a data pipeline using Apache Airflow for workflow orchestration and data management.
 - Implementing real-time data streaming through Apache Kafka to facilitate data transfer and processing in real-time.
 - Enabling distributed synchronization using Apache Zookeeper for robust coordination and reliability in a distributed system.
